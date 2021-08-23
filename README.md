@@ -4,13 +4,13 @@
 # Utilização de Técnicas de Aprendizado não Supervisionado para Classificação de Unidade Mecânicas em Maciço Rochoso
 
 #### Aluno: [Thiago da Cruz Falcão](https://github.com/thiago85falcao/).
-#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/link_do_github).
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
 
 ------
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Repositório Códigos - GIT](https://github.com/thiago85falcao/Projeto_Final_BI_Master_PUC-RIO_ICA). <!-- caso não aplicável, remover esta linha -->
+- [Link para código](https://github.com/thiago85falcao/Projeto_Final_BI_Master_PUC-RIO_ICA). <!-- caso não aplicável, remover esta linha -->
 
 ------
 
